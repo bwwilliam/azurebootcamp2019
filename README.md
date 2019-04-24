@@ -1,6 +1,6 @@
 # Azure Global Bootcamp 2019 - Auckland
 
-Follow the 8 steps below to create a CI/CD pipeline from Azure Portal. You can also download the pdf version [here](Workshop.pdf).
+Follow the 8 steps below to create a CI/CD pipeline from Azure Portal. You can also find the pdf version [here](Workshop.pdf).
 ![Step 1](images/step1.png)
 ![Step 2](images/step2.png)
 ![Step 3](images/step3.png)
